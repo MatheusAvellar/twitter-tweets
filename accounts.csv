@@ -1,0 +1,145 @@
+Type,Username,Display,Creation,Notes
+Standard,@Twitter,Twitter,Feb 2007,
+Standard,@TwitterAPI,Twitter API,May 2007,
+Standard,@TwitterEng,Twitter Engineering,Jun 2007,
+Standard,@TwitterSupport,Twitter Support,Dec 2008,
+Standard,@TwitterDesign,Twitter Design,Nov 2009,
+Standard,@TwitterSafety,Twitter Safety,Dec 2009,
+Standard,@TwitterCareers,Twitter Careers,Jan 2010,
+Standard,@TwitterBusiness,Twitter Business,Mar 2010,
+Standard,@TwitterLive,Twitter Live,Apr 2010,
+Standard,@TwitterU,Early Career at Twitter,Jul 2010,Internships and early careers
+Standard,@TwitterFashion,Twitter Fashion,Aug 2010,
+Standard,@TwitterGov,TwitterGov,Dec 2010,Politics
+Standard,@TwitterComms,Twitter Comms,Jan 2011,
+Standard,@TwitterSports,Twitter Sports,May 2011,
+Standard,@TwitterOpen,Twitter Open,Jul 2011,
+Standard,@TwitterMktg,Twitter Marketing,Aug 2011,
+Standard,@TwitterMusic,Twitter Music,Sep 2011,
+Standard,@TwitterOSS,Twitter Open Source,Sep 2011,
+Standard,@TwitterNews,Twitter News,Sep 2011,
+Standard,@TwitterIO,Twitter Reliability,Nov 2011,(not verified) Reliability Engineering
+Standard,@TwitterFaith,Twitter Faith,Nov 2011,
+Standard,@TwitterBooks,Twitter Books,Dec 2011,
+Standard,@TwitterMovies,Twitter Movies,Dec 2011,
+Standard,@TwitterResearch,Twitter Research,Apr 2012,
+Standard,@TwitterTV,Twitter TV,May 2012,
+Standard,@TwitterMedia,Twitter Media,Jul 2012,
+Standard,@TwitterSurveys,Twitter Surveys,Jul 2012,Brand surveys
+Standard,@TwitterSRE,Twitter SRE,Oct 2012,Site Reliability Engineering
+Standard,@TwitterHadoop,Hadoop @Twitter,Jan 2013,Hadoop team
+Standard,@twittersecurity,Twitter Security,Jan 2013,Security team
+Standard,@TwitterREW,Twitter REW,Mar 2013,Real Estate Works
+Standard,@TwitterNotify,Twitter Notify,Apr 2013,
+Standard,@TwitterData,Twitter Data,Jun 2013,
+Standard,@TwitterA11y,Twitter Accessibility,Jul 2013,
+Standard,@TwitterIR,Twitter Investor Relations,Jul 2013,
+Standard,@TwitterForGood,Twitter For Good,Sep 2013,Twitter's social impact
+Standard,@TwitterDev,Twitter Dev,Dec 2013,Dev team
+Standard,@TwitterWomen,Twitter Women,Feb 2014,
+Standard,@TwitterAlas,Twitter Alas,Jun 2014,Twitter's Latinos' Business Resource Group
+Standard,@TwitterStudio,Twitter Studio,Oct 2014,
+Standard,@TwitterFood,Twitter Food,Feb 2015,
+Standard,@TwitterStage,Twitter Stage,Feb 2015,Theater
+Standard,@TwitterMoments,Twitter Moments,Jun 2015,
+Standard,@TwitterCreators,Twitter Creators,Jul 2015,
+Standard,@TwitterGaming,Twitter Gaming,Oct 2015,
+Standard,@TwitterParents,Twitter Parents,Jun 2016,
+Standard,@TwitterStripes,Twitter Stripes,Jun 2016,Military
+Standard,@TwitterAsians,Twitter Asians,Jun 2016,Asians
+Standard,@TwitterTogether,Twitter Together,Sep 2016,Employee community
+Standard,@TwitterOneTeam,Twitter #OneTeam,Jun 2018,Internal event
+Standard,@TwitterSpaces,Spaces,Nov 2018,Live audio meetings
+Standard,@TwitterAble,Twitter Able,Sep 2019,Disability Twitter
+Standard,@TwitterRetweets,Twitter Retweets,Nov 2019,
+Standard,@TwitterArabs,Twitter Arabs,Oct 2020,Arabs
+Standard,@TwitterBlue,Twitter Blue,Jun 2021,Premium Twitter
+Standard,@TwitterIndigena,Twitter Indigenous,Sep 2021,Indigenous voicesDefault,
+Nonstandard,@TweetDeck,TweetDeck,May 2008,
+Nonstandard,@verified,Twitter Verified,Aug 2009,
+Nonstandard,@Nonprofits,Twitter Nonprofits,Jun 2010,Best practices for nonprofits
+Nonstandard,@Policy,Twitter Public Policy,Nov 2010,Public Policy team
+Nonstandard,@terns,Twitter Terns,Apr 2011,Twitter interns
+Nonstandard,@womeng,Twitter Women Eng,Dec 2011,
+Nonstandard,@OfficialPartner,Twitter Official Partner,Aug 2012,Twitter Official Partner Program
+Nonstandard,@AdsAPI,Twitter Ads API,Feb 2013,
+Nonstandard,@ArtHouse,ArtHouse,Jun 2013,Twitter marketing for brands
+Nonstandard,@University,Twitter University,Aug 2013,Technical training
+Nonstandard,@SupportRequests,Support Requests,Mar 2014,
+Nonstandard,@Blackbirds,Twitter Blackbirds,Jun 2014,Black employees
+Nonstandard,@NeighborNest,Twitter NeighborNest,Jun 2014,Community Center
+Nonstandard,@birdwatch,Birdwatch,Oct 2020,
+Nonstandard,@SuperFollows,Super Follows,Aug 2021,
+Nonstandard,@HiCommunities,Twitter Communities,Sep 2021,
+Office,@TwitterSF,Twitter San Francisco,Jul 2010,"Twitter HQ at San Francisco, CA"
+Office,@TwitterChicago,Twitter Chicago,Nov 2010,"Twitter HQ at Chicago, IL"
+Office,@TwitterNYC,Twitter New York City,Feb 2012,"Twitter HQ at New York, NY"
+Office,@TwitterLA,Twitter Los Angeles,Feb 2012,"Twitter HQ at Los Angeles, CA"
+Office,@TwitterDC,Twitter DC,May 2012,"Twitter HQ at Washington, DC"
+Office,@TwitterATL,Twitter Atlanta,Jul 2012,"Twitter HQ at Atlanta, GA"
+Office,@TwitterSeattle,Twitter Seattle,Feb 2013,"Twitter HQ at Seattle, WA"
+Office,@TwitterBoston,Twitter Boston,Feb 2013,"Twitter HQ at Boston, MA"
+Office,@TwitterBoulder,Twitter Boulder,Dec 2013,"Twitter HQ at Boulder, CO"
+Office,@TwitterParis,Twitter Paris,Apr 2016,Twitter HQ at Paris
+Office,@TwitterMiami,Twitter Miami,Oct 2018,"Twitter HQ at Miami, FL"
+Office,@TwitterDetroit,Twitter Detroit,Apr 2016,"Twitter HQ at Detroit, MI"
+Regional,@TwitterAU,Twitter Australia,Sep 2012,Australia
+Regional,@MomentsAU,Twitter Moments Australia,Dec 2015,Australia (moments)
+Regional,@TwitterMktgAU,Twitter Marketing AU,Feb 2015,Australia (marketing)
+Regional,@TwitterSportsAU,Twitter Sports,Dec 2013,Australia (sports)
+Regional,@TwitterMENA,Twitter MENA,Dec 2013,Middle East and North Africa
+Regional,@momentsmena,Moments MENA,Aug 2016,Middle East and North Africa (moments)
+Regional,@TwitterIndia,Twitter India,Jan 2010,India
+Regional,@MomentsIndia,Twitter Moments India,Jun 2016,India (moments)
+Regional,@TwitterMktgIN,Twitter Marketing IN,Jul 2015,India (marketing)
+Regional,@TwitterVideoIN,Twitter Video India,Apr 2016,India (video)
+Regional,@TwitterSG,Twitter Singapore,Dec 2013,Singapore
+Regional,@TwitterMktgSG,Twitter Marketing SG,Jul 2015,Singapore (marketing)
+Regional,@TwitterBrasil,Twitter Brasil,Mar 2011,Brazil
+Regional,@TwitterMktgBR,Twitter Marketing BR,Dec 2013,Brazil (marketing)
+Regional,@TwitterSeguroBR,Twitter Seguro 🇧🇷,Oct 2021,Brazil (safety)
+Regional,@MomentsBrasil,Twitter Moments Brasil,Nov 2015,Brazil (moments)
+Regional,@JoinTheFlockBR,Twitter Careers Brasil,Jun 2014,Job openings Brazil
+Regional,@TwitterUK,Twitter UK,Apr 2011,United Kingdom
+Regional,@TwitterMktgUK,Twitter Marketing UK,Jan 2013,United Kingdom (marketing)
+Regional,@UKMoments,Twitter Moments UK & Ireland,Jan 2014,United Kingdom + Ireland (moments)
+Regional,@insiders_uk,Twitter Insiders UK,Nov 2013,United Kingdom (research community)
+Regional,@TwitterDublin,Twitter Dublin,Jun 2013,Ireland
+Regional,@JoinTheFlockEU,Join The Flock EMEA,Jul 2012,Job openings Europe
+Regional,@TwitterTurkiye,Twitter Türkiye,Aug 2011,Turkey
+Regional,@TwitterJP,Twitter Japan,Jun 2007,Japan
+Regional,@MomentsJapan,Twitter モーメント,Oct 2015,Japan (moments)
+Regional,@TwitterBizJP,Twitterビジネス,Jun 2014,Japan (business)
+Regional,@TwitterGovJP,Twitter 政治,Feb 2013,Japan (politics)
+Regional,@TwitterMusicJP,Twitter ミュージック,Oct 2012,Japan (music)
+Regional,@TwitterLifeline,Twitterライフライン,Dec 2013,Japan (disasters)
+Regional,@TwitterFashnJP,Twitter ファッション,Oct 2014,Japan (fashion)
+Regional,@TwitterNewsJP,Twitter ニュース,Feb 2013,Japan (news)
+Regional,@TwitterMediaJP,Twitter メディア,May 2013,Japan (media)
+Regional,@TwitterMktgJP,Twitter マーケティング,Jul 2012,Japan (marketing)
+Regional,@TwitterDevJP,Twitter Dev Japan,Sep 2009,Japan (dev)
+Regional,@TwitterSportsJP,Twitter スポーツ,Feb 2013,Japan (sports)
+Regional,@JoinTheFlockJP,Twitter公式採用アカウント,Aug 2013,Job openings Japan
+Regional,@TwitterKorea,Twitter 트위터코리아,Nov 2010,Korea
+Regional,@TwitterMktgKR,Twitter Marketing Korea 트위터 마케팅,Jul 2013,Korea (marketing)
+Regional,@TwitterCanada,Twitter Canada,Apr 2013,Canada
+Regional,@CanadaMoments,Twitter Moments Canada,Oct 2015,Canada (moments)
+Regional,@TwitterEspana,Twitter España,Apr 2013,Spain
+Regional,@MomentsES,Twitter Moments en Español,Oct 2015,Spain (moments)
+Regional,@TwitterMktgES,Twitter Marketing ES,Aug 2013,Spain (marketing)
+Regional,@TwitterSeguro,Twitter Seguro,Nov 2009,Spain (safety)
+Regional,@TweetEventos,TweetEventos,Mar 2016,(not verified) Spain (events)
+Regional,@TwitterLatAm,Twitter Latin America,Oct 2009,Latin America
+Regional,@TwitterMktLatam,Twitter Mktg Latam,Jun 2014,Latin America (marketing)
+Regional,@TwitterMexico,Twitter México,Jun 2018,Mexico
+Regional,@TwitterFrance,Twitter France,Nov 2009,France
+Regional,@TwitterMktgFR,Twitter Marketing FR,Aug 2013,France (marketing)
+Regional,@TwitterMediaFR,Twitter Media France,Feb 2015,(not verified) France (media)
+Regional,@TwitterDE,Twitter Deutschland,Dec 2009,Germany
+Regional,@TwitterMktgDACH,Twitter Marketing DACH,Jun 2014,Germany + Austria + Switzerland (marketing)
+Regional,@TwitterPH,Twitter Philippines,Oct 2015,Philippines
+Regional,@TwitterThailand,Twitter Thailand,Mar 2020,Thailand
+Regional,@TwitterID,Twitter Indonesia,Jun 2014,Indonesia
+Regional,@TwitterMktgID,Twitter Marketing ID,Jun 2015,Indonesia (marketing)
+Regional,@TwitterMktgIL,Twitter Marketing Israel,Sep 2021,Israel (marketing)
+Regional,@TwitterGhana,Twitter Ghana,Dec 2021,Ghana,

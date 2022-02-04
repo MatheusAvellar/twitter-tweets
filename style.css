@@ -1,0 +1,156 @@
+:root {
+  /* [Ref] www.joshwcomeau.com/shadow-palette/ */
+  --shadow-color: 192deg 100% 21%;
+  --shadow-elevation-low:
+    0.3px 0.5px 0.7px hsl(var(--shadow-color) / 0.34),
+    0.4px 0.8px 1px -1.2px hsl(var(--shadow-color) / 0.34),
+    1px 2px 2.5px -2.5px hsl(var(--shadow-color) / 0.34);
+  --shadow-elevation-medium:
+    0.3px 0.5px 0.7px hsl(var(--shadow-color) / 0.36),
+    0.8px 1.6px 2px -0.8px hsl(var(--shadow-color) / 0.36),
+    2.1px 4.1px 5.2px -1.7px hsl(var(--shadow-color) / 0.36),
+    5px 10px 12.6px -2.5px hsl(var(--shadow-color) / 0.36);
+  --shadow-elevation-high:
+    0.3px 0.5px 0.7px hsl(var(--shadow-color) / 0.34),
+    1.5px 2.9px 3.7px -0.4px hsl(var(--shadow-color) / 0.34),
+    2.7px 5.4px 6.8px -0.7px hsl(var(--shadow-color) / 0.34),
+    4.5px 8.9px 11.2px -1.1px hsl(var(--shadow-color) / 0.34),
+    7.1px 14.3px 18px -1.4px hsl(var(--shadow-color) / 0.34),
+    11.2px 22.3px 28.1px -1.8px hsl(var(--shadow-color) / 0.34),
+    17px 33.9px 42.7px -2.1px hsl(var(--shadow-color) / 0.34),
+    25px 50px 62.9px -2.5px hsl(var(--shadow-color) / 0.34);
+}
+
+html {
+  font-family: Inter, Roboto, sans-serif;
+}
+html, body {
+  margin: 0;
+  min-height: 100%;
+}
+@supports (font-variation-settings: normal) {
+  html {
+    font-family: "Inter var", Roboto, sans-serif;
+  }
+}
+body {
+  color: #111;
+  background-color: #62e2ff;
+  /* [Ref] www.joshwcomeau.com/gradient-generator */
+  background-image: linear-gradient(
+    30deg,
+    hsl(166deg 100% 41%) 0%,
+    hsl(168deg 100% 43%) 9%,
+    hsl(170deg 100% 46%) 18%,
+    hsl(173deg 100% 48%) 27%,
+    hsl(175deg 100% 51%) 36%,
+    hsl(177deg 100% 54%) 45%,
+    hsl(179deg 100% 56%) 55%,
+    hsl(182deg 100% 59%) 64%,
+    hsl(184deg 100% 61%) 73%,
+    hsl(187deg 100% 64%) 82%,
+    hsl(189deg 100% 67%) 91%,
+    hsl(191deg 100% 69%) 100%
+  );
+}
+header, main, footer {
+  max-width: 800px;
+  margin: auto;
+}
+header {
+  padding: 1em 1em 0;
+  position: relative;
+}
+main {
+  padding: 1em;
+}
+footer {
+  padding: 0 1em 1em;
+}
+strong, b, h1, h2, h3, h4 {
+  font-weight: 600;
+}
+h1,h2,h3,h4, p {
+  margin: 0;
+}
+h2 {
+  margin-bottom: .5em;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1em;
+}
+@media screen and (max-width: 780px) {
+  ul {
+    grid-template-columns: 1fr;
+  }
+}
+@media screen and (min-width: 1300px) {
+  header, main, footer {
+    max-width: 1200px;
+  }
+  ul {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+article {
+  padding: 1em;
+  background-color: #fff;
+  box-shadow: var(--shadow-elevation-low);
+  border-radius: 8px;
+  transition: box-shadow .15s ease;
+}
+article:hover, article:active, article:focus-within {
+  box-shadow: var(--shadow-elevation-medium);
+}
+a[href] {
+  font-weight: 600;
+  color: #536471;
+  text-decoration: none;
+  padding: .1em .2em;
+  border-radius: 2px;
+  margin-left: -.1em;
+}
+a[href]:hover, a[href]:focus, a[href]:active {
+  background-color: #536471;
+  color: #fff;
+}
+nav {
+  position: absolute;
+  right: 1em;
+  top: 1em;
+}
+svg {
+  width: 1em;
+  margin-top: -.2em;
+  vertical-align: middle;
+  fill: #1d9bf0;
+}
+hr {
+  height: 2.5px;
+  background-color: #111;
+  border: 0;
+  margin: 4rem auto 3rem;
+  width: 50%;
+}
+
+.username {
+  margin-bottom: .5em;
+  color: #536471;
+}
+.label {
+  font-weight: 500;
+  text-align: right;
+  color: #111;
+  font-size: 85%;
+}
+.label+.label {
+  margin-top: 1em;
+}
+.acc-category {
+  margin-top: 1em;
+}
