@@ -1,145 +1,180 @@
-Type,Username,Display,Creation,Image,Notes,Verified
-Standard,Twitter,Twitter,Feb 2007,Twitter,,TRUE
-Standard,TwitterAPI,Twitter API,May 2007,TwitterAPI,,TRUE
-Standard,TwitterEng,Twitter Engineering,Jun 2007,Twitter,,TRUE
-Standard,TwitterSupport,Twitter Support,Dec 2008,Twitter,,TRUE
-Standard,TwitterDesign,Twitter Design,Nov 2009,Twitter,,TRUE
-Standard,TwitterSafety,Twitter Safety,Dec 2009,Twitter,,TRUE
-Standard,TwitterCareers,Twitter Careers,Jan 2010,TwitterCareers,,TRUE
-Standard,TwitterBusiness,Twitter Business,Mar 2010,Twitter,,TRUE
-Standard,TwitterLive,Twitter Live,Apr 2010,Twitter,,TRUE
-Standard,TwitterU,Early Career at Twitter,Jul 2010,Twitter,Internships and early careers,TRUE
-Standard,TwitterFashion,Twitter Fashion,Aug 2010,Twitter,,TRUE
-Standard,TwitterGov,TwitterGov,Dec 2010,Twitter,Politics,TRUE
-Standard,TwitterComms,Twitter Comms,Jan 2011,Twitter,,TRUE
-Standard,TwitterSports,Twitter Sports,May 2011,TwitterSports,,TRUE
-Standard,TwitterOpen,Twitter Open,Jul 2011,TwitterOpen,,TRUE
-Standard,TwitterMktg,Twitter Marketing,Aug 2011,Twitter,,TRUE
-Standard,TwitterMusic,Twitter Music,Sep 2011,TwitterMusic,,TRUE
-Standard,TwitterOSS,Twitter Open Source,Sep 2011,Twitter,,TRUE
-Standard,TwitterNews,Twitter News,Sep 2011,Twitter,,TRUE
-Standard,TwitterIO,Twitter Reliability,Nov 2011,TwitterIO,Reliability Engineering,FALSE
-Standard,TwitterFaith,Twitter Faith,Nov 2011,TwitterFaith,,TRUE
-Standard,TwitterBooks,Twitter Books,Dec 2011,Twitter,,TRUE
-Standard,TwitterMovies,Twitter Movies,Dec 2011,TwitterMovies,,TRUE
-Standard,TwitterResearch,Twitter Research,Apr 2012,Twitter,,TRUE
-Standard,TwitterTV,Twitter TV,May 2012,TwitterTV,,TRUE
-Standard,TwitterMedia,Twitter Media,Jul 2012,Twitter,,TRUE
-Standard,TwitterSurveys,Twitter Surveys,Jul 2012,Twitter,Brand surveys,TRUE
-Standard,TwitterSRE,Twitter SRE,Oct 2012,Twitter,Site Reliability Engineering,TRUE
-Standard,TwitterHadoop,Hadoop @Twitter,Jan 2013,TwitterHadoop,Hadoop team,TRUE
-Standard,twittersecurity,Twitter Security,Jan 2013,Twitter,Security team,TRUE
-Standard,TwitterREW,Twitter REW,Mar 2013,Twitter,Real Estate Works,TRUE
-Standard,TwitterNotify,Twitter Notify,Apr 2013,Twitter,,TRUE
-Standard,TwitterData,Twitter Data,Jun 2013,Twitter,,TRUE
-Standard,TwitterA11y,Twitter Accessibility,Jul 2013,Twitter,,TRUE
-Standard,TwitterIR,Twitter Investor Relations,Jul 2013,Twitter,,TRUE
-Standard,TwitterForGood,Twitter For Good,Sep 2013,Twitter,Twitter's social impact,TRUE
-Standard,TwitterDev,Twitter Dev,Dec 2013,TwitterAPI,Dev team,TRUE
-Standard,TwitterWomen,Twitter Women,Feb 2014,TwitterWomen,,TRUE
-Standard,TwitterAlas,Twitter Alas,Jun 2014,TwitterAlas,Twitter's Latinos' Business Resource Group,TRUE
-Standard,TwitterStudio,Twitter Studio,Oct 2014,Twitter,,TRUE
-Standard,TwitterFood,Twitter Food,Feb 2015,Twitter,,TRUE
-Standard,TwitterStage,Twitter Stage,Feb 2015,Twitter,Theater,TRUE
-Standard,TwitterMoments,Twitter Moments,Jun 2015,Twitter,,TRUE
-Standard,TwitterCreators,Twitter Creators,Jul 2015,TwitterCreators,,TRUE
-Standard,TwitterGaming,Twitter Gaming,Oct 2015,TwitterGaming,,TRUE
-Standard,TwitterParents,Twitter Parents,Jun 2016,TwitterParents,,TRUE
-Standard,TwitterStripes,Twitter Stripes,Jun 2016,TwitterStripes,Military,TRUE
-Standard,TwitterAsians,Twitter Asians,Jun 2016,TwitterAsians,Asians,TRUE
-Standard,TwitterTogether,Twitter Together,Sep 2016,TwitterTogether,Employee community,TRUE
-Standard,TwitterOneTeam,Twitter #OneTeam,Jun 2018,TwitterOneTeam,Internal event,TRUE
-Standard,TwitterSpaces,Spaces,Nov 2018,TwitterSpaces,Live audio meetings,TRUE
-Standard,TwitterAble,Twitter Able,Sep 2019,TwitterAble,Disability Twitter,TRUE
-Standard,TwitterRetweets,Twitter Retweets,Nov 2019,Twitter,,TRUE
-Standard,TwitterArabs,Twitter Arabs,Oct 2020,TwitterArabs,Arabs,TRUE
-Standard,TwitterBlue,Twitter Blue,Jun 2021,TwitterBlue,Premium Twitter,TRUE
-Standard,TwitterIndigena,Twitter Indigenous,Sep 2021,TwitterIndigena,Indigenous voices,TRUE
-Nonstandard,TweetDeck,TweetDeck,May 2008,Twitter,,TRUE
-Nonstandard,verified,Twitter Verified,Aug 2009,Twitter,,TRUE
-Nonstandard,Nonprofits,Twitter Nonprofits,Jun 2010,Twitter,Best practices for nonprofits,TRUE
-Nonstandard,Policy,Twitter Public Policy,Nov 2010,Twitter,Public Policy team,TRUE
-Nonstandard,terns,Twitter Terns,Apr 2011,Twitter,Twitter interns,TRUE
-Nonstandard,womeng,Twitter Women Eng,Dec 2011,Twitter,,TRUE
-Nonstandard,OfficialPartner,Twitter Official Partner,Aug 2012,Twitter,Twitter Official Partner Program,TRUE
-Nonstandard,AdsAPI,Twitter Ads API,Feb 2013,Twitter,,TRUE
-Nonstandard,ArtHouse,ArtHouse,Jun 2013,Twitter,Twitter marketing for brands,TRUE
-Nonstandard,University,Twitter University,Aug 2013,Twitter,Technical training,TRUE
-Nonstandard,SupportRequests,Support Requests,Mar 2014,Twitter,,TRUE
-Nonstandard,Blackbirds,Twitter Blackbirds,Jun 2014,Blackbirds,Black employees,TRUE
-Nonstandard,NeighborNest,Twitter NeighborNest,Jun 2014,Twitter,Community Center,TRUE
-Nonstandard,birdwatch,Birdwatch,Oct 2020,birdwatch,,TRUE
-Nonstandard,SuperFollows,Super Follows,Aug 2021,SuperFollows,,TRUE
-Nonstandard,HiCommunities,Twitter Communities,Sep 2021,HiCommunities,,TRUE
-Office,TwitterSF,Twitter San Francisco,Jul 2010,Twitter,"Twitter HQ at San Francisco, CA",TRUE
-Office,TwitterChicago,Twitter Chicago,Nov 2010,Twitter,"Twitter HQ at Chicago, IL",TRUE
-Office,TwitterNYC,Twitter New York City,Feb 2012,Twitter,"Twitter HQ at New York, NY",TRUE
-Office,TwitterLA,Twitter Los Angeles,Feb 2012,Twitter,"Twitter HQ at Los Angeles, CA",TRUE
-Office,TwitterDC,Twitter DC,May 2012,Twitter,"Twitter HQ at Washington, DC",TRUE
-Office,TwitterATL,Twitter Atlanta,Jul 2012,Twitter,"Twitter HQ at Atlanta, GA",TRUE
-Office,TwitterSeattle,Twitter Seattle,Feb 2013,Twitter,"Twitter HQ at Seattle, WA",TRUE
-Office,TwitterBoston,Twitter Boston,Feb 2013,Twitter,"Twitter HQ at Boston, MA",TRUE
-Office,TwitterBoulder,Twitter Boulder,Dec 2013,Twitter,"Twitter HQ at Boulder, CO",TRUE
-Office,TwitterParis,Twitter Paris,Apr 2016,TwitterFrance,Twitter HQ at Paris,TRUE
-Office,TwitterDetroit,Twitter Detroit,Apr 2016,Twitter,"Twitter HQ at Detroit, MI",TRUE
-Office,TwitterMiami,Twitter Miami,Oct 2018,Twitter,"Twitter HQ at Miami, FL",TRUE
-Regional,TwitterAU,Twitter Australia,Sep 2012,TwitterAU,Australia,TRUE
-Regional,TwitterMktgAU,Twitter Marketing AU,Feb 2015,TwitterAU,Australia (marketing),TRUE
-Regional,MomentsAU,Twitter Moments Australia,Dec 2015,TwitterAU,Australia (moments),TRUE
-Regional,TwitterSportsAU,Twitter Sports,Dec 2013,TwitterAU,Australia (sports),TRUE
-Regional,TwitterBrasil,Twitter Brasil,Mar 2011,TwitterBrasil,Brazil,TRUE
-Regional,JoinTheFlockBR,Twitter Careers Brasil,Jun 2014,TwitterMktgBR,Brazil (job openings),TRUE
-Regional,TwitterMktgBR,Twitter Marketing BR,Dec 2013,TwitterMktgBR,Brazil (marketing),TRUE
-Regional,MomentsBrasil,Twitter Moments Brasil,Nov 2015,TwitterMktgBR,Brazil (moments),TRUE
-Regional,TwitterSeguroBR,Twitter Seguro 🇧🇷,Oct 2021,Twitter,Brazil (safety),TRUE
-Regional,TwitterCanada,Twitter Canada,Apr 2013,TwitterCanada,Canada,TRUE
-Regional,CanadaMoments,Twitter Moments Canada,Oct 2015,CanadaMoments,Canada (moments),TRUE
-Regional,JoinTheFlockEU,Join The Flock EMEA,Jul 2012,Twitter,Europe (job openings),TRUE
-Regional,TwitterFrance,Twitter France,Nov 2009,TwitterFrance,France,TRUE
-Regional,TwitterMktgFR,Twitter Marketing FR,Aug 2013,TwitterFrance,France (marketing),TRUE
-Regional,TwitterMediaFR,Twitter Media France,Feb 2015,TwitterMediaFR,France (media),FALSE
-Regional,TwitterDE,Twitter Deutschland,Dec 2009,TwitterDE,Germany,TRUE
-Regional,TwitterMktgDACH,Twitter Marketing DACH,Jun 2014,TwitterMktgDACH,Germany + Austria + Switzerland (marketing),TRUE
-Regional,TwitterGhana,Twitter Ghana,Dec 2021,TwitterGhana,Ghana,TRUE
-Regional,TwitterIndia,Twitter India,Jan 2010,TwitterIndia,India,TRUE
-Regional,TwitterMktgIN,Twitter Marketing IN,Jul 2015,TwitterMktgIN,India (marketing),TRUE
-Regional,MomentsIndia,Twitter Moments India,Jun 2016,TwitterIndia,India (moments),TRUE
-Regional,TwitterVideoIN,Twitter Video India,Apr 2016,TwitterIndia,India (video),TRUE
-Regional,TwitterID,Twitter Indonesia,Jun 2014,TwitterID,Indonesia,TRUE
-Regional,TwitterMktgID,Twitter Marketing ID,Jun 2015,TwitterID,Indonesia (marketing),TRUE
-Regional,TwitterDublin,Twitter Dublin,Jun 2013,TwitterDublin,Ireland,TRUE
-Regional,TwitterMktgIL,Twitter Marketing Israel,Sep 2021,TwitterMktgIL,Israel (marketing),TRUE
-Regional,TwitterJP,Twitter Japan,Jun 2007,TwitterJP,Japan,TRUE
-Regional,TwitterBizJP,Twitterビジネス,Jun 2014,TwitterJP,Japan (business),TRUE
-Regional,TwitterDevJP,Twitter Dev Japan,Sep 2009,TwitterJP,Japan (dev),TRUE
-Regional,TwitterLifeline,Twitterライフライン,Dec 2013,Twitter,Japan (disasters),TRUE
-Regional,TwitterFashnJP,Twitter ファッション,Oct 2014,TwitterJP,Japan (fashion),TRUE
-Regional,JoinTheFlockJP,Twitter公式採用アカウント,Aug 2013,TwitterJP,Japan (job openings),TRUE
-Regional,TwitterMktgJP,Twitter マーケティング,Jul 2012,TwitterJP,Japan (marketing),TRUE
-Regional,TwitterMediaJP,Twitter メディア,May 2013,TwitterJP,Japan (media),TRUE
-Regional,MomentsJapan,Twitter モーメント,Oct 2015,TwitterJP,Japan (moments),TRUE
-Regional,TwitterMusicJP,Twitter ミュージック,Oct 2012,TwitterJP,Japan (music),TRUE
-Regional,TwitterNewsJP,Twitter ニュース,Feb 2013,TwitterJP,Japan (news),TRUE
-Regional,TwitterGovJP,Twitter 政治,Feb 2013,TwitterJP,Japan (politics),TRUE
-Regional,TwitterSportsJP,Twitter スポーツ,Feb 2013,TwitterJP,Japan (sports),TRUE
-Regional,TwitterKorea,Twitter 트위터코리아,Nov 2010,TwitterKorea,Korea,TRUE
-Regional,TwitterMktgKR,Twitter Marketing Korea 트위터 마케팅,Jul 2013,TwitterKorea,Korea (marketing),TRUE
-Regional,TwitterLatAm,Twitter Latin America,Oct 2009,TwitterLatAm,Latin America,TRUE
-Regional,TwitterMktLatam,Twitter Mktg Latam,Jun 2014,TwitterLatAm,Latin America (marketing),TRUE
-Regional,TwitterMexico,Twitter México,Jun 2018,TwitterMexico,Mexico,TRUE
-Regional,TwitterMENA,Twitter MENA,Dec 2013,TwitterMENA,Middle East and North Africa,TRUE
-Regional,momentsmena,Moments MENA,Aug 2016,momentsmena,Middle East and North Africa (moments),TRUE
-Regional,TwitterPH,Twitter Philippines,Oct 2015,TwitterPH,Philippines,TRUE
-Regional,TwitterSG,Twitter Singapore,Dec 2013,TwitterSG,Singapore,TRUE
-Regional,TwitterMktgSG,Twitter Marketing SG,Jul 2015,TwitterSG,Singapore (marketing),TRUE
-Regional,TwitterEspana,Twitter España,Apr 2013,Twitter,Spain,TRUE
-Regional,TweetEventos,TweetEventos,Mar 2016,TweetEventos,Spain (events),FALSE
-Regional,TwitterMktgES,Twitter Marketing ES,Aug 2013,Twitter,Spain (marketing),TRUE
-Regional,MomentsES,Twitter Moments en Español,Oct 2015,Twitter,Spain (moments),TRUE
-Regional,TwitterSeguro,Twitter Seguro,Nov 2009,Twitter,Spain (safety),TRUE
-Regional,TwitterThailand,Twitter Thailand,Mar 2020,TwitterThailand,Thailand,TRUE
-Regional,TwitterTurkiye,Twitter Türkiye,Aug 2011,TwitterTurkiye,Turkey,TRUE
-Regional,TwitterUK,Twitter UK,Apr 2011,TwitterUK,United Kingdom,TRUE
-Regional,TwitterMktgUK,Twitter Marketing UK,Jan 2013,TwitterUK,United Kingdom (marketing),TRUE
-Regional,insiders_uk,Twitter Insiders UK,Nov 2013,TwitterUK,United Kingdom (research community),TRUE
-Regional,UKMoments,Twitter Moments UK & Ireland,Jan 2014,TwitterUK,United Kingdom + Ireland (moments),TRUE
+Type,Username,Display,Creation,Image,Notes,Verified,Private
+Standard,Twitter,Twitter,Feb 2007,Twitter,,TRUE,FALSE
+Standard,TwitterAPI,Twitter API,May 2007,TwitterAPI,,TRUE,FALSE
+Standard,TwitterEng,Twitter Engineering,Jun 2007,Twitter,,TRUE,FALSE
+Standard,TwitterSupport,Twitter Support,Dec 2008,Twitter,,TRUE,FALSE
+Standard,TwitterDesign,Twitter Design,Nov 2009,Twitter,,TRUE,FALSE
+Standard,TwitterSafety,Twitter Safety,Dec 2009,Twitter,,TRUE,FALSE
+Standard,TwitterCareers,Twitter Careers,Jan 2010,TwitterCareers,,TRUE,FALSE
+Standard,TwitterBusiness,Twitter Business,Mar 2010,Twitter,,TRUE,FALSE
+Standard,TwitterLive,Twitter Live,Apr 2010,Twitter,,TRUE,FALSE
+Standard,TwitterU,Early Career at Twitter,Jul 2010,Twitter,Internships and early careers,TRUE,FALSE
+Standard,TwitterFashion,Twitter Fashion,Aug 2010,Twitter,,TRUE,FALSE
+Standard,TwitterGov,TwitterGov,Dec 2010,Twitter,Politics,TRUE,FALSE
+Standard,TwitterComms,Twitter Comms,Jan 2011,Twitter,,TRUE,FALSE
+Standard,TwitterSports,Twitter Sports,May 2011,TwitterSports,,TRUE,FALSE
+Standard,TwitterOpen,Twitter Open,Jul 2011,TwitterOpen,,TRUE,FALSE
+Standard,TwitterMktg,Twitter Marketing,Aug 2011,Twitter,,TRUE,FALSE
+Standard,TwitterMusic,Twitter Music,Sep 2011,TwitterMusic,,TRUE,FALSE
+Standard,TwitterOSS,Twitter Open Source,Sep 2011,Twitter,,TRUE,FALSE
+Standard,TwitterNews,Twitter News,Sep 2011,Twitter,,TRUE,FALSE
+Standard,TwitterIO,Twitter Reliability,Nov 2011,TwitterIO,Reliability Engineering,FALSE,FALSE
+Standard,TwitterFaith,Twitter Faith,Nov 2011,TwitterFaith,,TRUE,FALSE
+Standard,TwitterBooks,Twitter Books,Dec 2011,Twitter,,TRUE,FALSE
+Standard,TwitterMovies,Twitter Movies,Dec 2011,TwitterMovies,,TRUE,FALSE
+Standard,TwitterResearch,Twitter Research,Apr 2012,Twitter,,TRUE,FALSE
+Standard,TwitterTV,Twitter TV,May 2012,TwitterTV,,TRUE,FALSE
+Standard,TwitterMedia,Twitter Media,Jul 2012,Twitter,,TRUE,FALSE
+Standard,TwitterSurveys,Twitter Surveys,Jul 2012,Twitter,Brand surveys,TRUE,FALSE
+Standard,TwitterSRE,Twitter SRE,Oct 2012,Twitter,Site Reliability Engineering,TRUE,FALSE
+Standard,TwitterHadoop,Hadoop @Twitter,Jan 2013,TwitterHadoop,Hadoop team,TRUE,FALSE
+Standard,twittersecurity,Twitter Security,Jan 2013,Twitter,Security team,TRUE,FALSE
+Standard,TwitterREW,Twitter REW,Mar 2013,Twitter,Real Estate Works,TRUE,FALSE
+Standard,TwitterNotify,Twitter Notify,Apr 2013,Twitter,,TRUE,FALSE
+Standard,TwitterData,Twitter Data,Jun 2013,Twitter,,TRUE,FALSE
+Standard,TwitterA11y,Twitter Accessibility,Jul 2013,Twitter,,TRUE,FALSE
+Standard,TwitterIR,Twitter Investor Relations,Jul 2013,Twitter,,TRUE,FALSE
+Standard,TwitterForGood,Twitter For Good,Sep 2013,Twitter,Twitter's social impact,TRUE,FALSE
+Standard,TwitterDev,Twitter Dev,Dec 2013,TwitterAPI,Dev team,TRUE,FALSE
+Standard,TwitterWomen,Twitter Women,Feb 2014,TwitterWomen,,TRUE,FALSE
+Standard,TwitterAlas,Twitter Alas,Jun 2014,TwitterAlas,Twitter's Latinos' Business Resource Group,TRUE,FALSE
+Standard,TwitterStudio,Twitter Studio,Oct 2014,Twitter,,TRUE,FALSE
+Standard,TwitterFood,Twitter Food,Feb 2015,Twitter,,TRUE,FALSE
+Standard,TwitterStage,Twitter Stage,Feb 2015,Twitter,Theater,TRUE,FALSE
+Standard,TwitterMoments,Twitter Moments,Jun 2015,Twitter,,TRUE,FALSE
+Standard,TwitterCreators,Twitter Creators,Jul 2015,TwitterCreators,,TRUE,FALSE
+Standard,TwitterGaming,Twitter Gaming,Oct 2015,TwitterGaming,,TRUE,FALSE
+Standard,TwitterParents,Twitter Parents,Jun 2016,TwitterParents,,TRUE,FALSE
+Standard,TwitterStripes,Twitter Stripes,Jun 2016,TwitterStripes,Military,TRUE,FALSE
+Standard,TwitterAsians,Twitter Asians,Jun 2016,TwitterAsians,Asians,TRUE,FALSE
+Standard,TwitterTogether,Twitter Together,Sep 2016,TwitterTogether,Employee community,TRUE,FALSE
+Standard,TwitterOneTeam,Twitter #OneTeam,Jun 2018,TwitterOneTeam,Internal event,FALSE,TRUE
+Standard,TwitterSpaces,Spaces,Nov 2018,TwitterSpaces,Live audio meetings,TRUE,FALSE
+Standard,TwitterAble,Twitter Able,Sep 2019,TwitterAble,Disability Twitter,TRUE,FALSE
+Standard,TwitterRetweets,Twitter Retweets,Nov 2019,Twitter,,TRUE,FALSE
+Standard,TwitterArabs,Twitter Arabs,Oct 2020,TwitterArabs,Arabs,TRUE,FALSE
+Standard,TwitterBlue,Twitter Blue,Jun 2021,TwitterBlue,Premium Twitter,TRUE,FALSE
+Standard,TwitterIndigena,Twitter Indigenous,Sep 2021,TwitterIndigena,Indigenous voices,TRUE,FALSE
+Nonstandard,TweetDeck,TweetDeck,May 2008,Twitter,,TRUE,FALSE
+Nonstandard,verified,Twitter Verified,Aug 2009,Twitter,,TRUE,FALSE
+Nonstandard,Nonprofits,Twitter Nonprofits,Jun 2010,Twitter,Best practices for nonprofits,TRUE,FALSE
+Nonstandard,Policy,Twitter Public Policy,Nov 2010,Twitter,Public Policy team,TRUE,FALSE
+Nonstandard,terns,Twitter Terns,Apr 2011,Twitter,Twitter interns,TRUE,FALSE
+Nonstandard,womeng,Twitter Women Eng,Dec 2011,Twitter,,TRUE,FALSE
+Nonstandard,OfficialPartner,Twitter Official Partner,Aug 2012,Twitter,Twitter Official Partner Program,TRUE,FALSE
+Nonstandard,AdsAPI,Twitter Ads API,Feb 2013,Twitter,,TRUE,FALSE
+Nonstandard,ArtHouse,ArtHouse,Jun 2013,Twitter,Twitter marketing for brands,TRUE,FALSE
+Nonstandard,University,Twitter University,Aug 2013,Twitter,Technical training,TRUE,FALSE
+Nonstandard,SupportRequests,Support Requests,Mar 2014,Twitter,,TRUE,FALSE
+Nonstandard,Blackbirds,Twitter Blackbirds,Jun 2014,Blackbirds,Black employees,TRUE,FALSE
+Nonstandard,NeighborNest,Twitter NeighborNest,Jun 2014,Twitter,Community Center,TRUE,FALSE
+Nonstandard,birdwatch,Birdwatch,Oct 2020,birdwatch,,TRUE,FALSE
+Nonstandard,SuperFollows,Super Follows,Aug 2021,SuperFollows,,TRUE,FALSE
+Nonstandard,HiCommunities,Twitter Communities,Sep 2021,HiCommunities,,TRUE,FALSE
+Office,TwitterSF,Twitter San Francisco,Jul 2010,Twitter,"Twitter HQ at San Francisco, CA",TRUE,FALSE
+Office,TwitterChicago,Twitter Chicago,Nov 2010,Twitter,"Twitter HQ at Chicago, IL",TRUE,FALSE
+Office,TwitterNYC,Twitter New York City,Feb 2012,Twitter,"Twitter HQ at New York, NY",TRUE,FALSE
+Office,TwitterLA,Twitter Los Angeles,Feb 2012,Twitter,"Twitter HQ at Los Angeles, CA",TRUE,FALSE
+Office,TwitterDC,Twitter DC,May 2012,Twitter,"Twitter HQ at Washington, DC",TRUE,FALSE
+Office,TwitterATL,Twitter Atlanta,Jul 2012,Twitter,"Twitter HQ at Atlanta, GA",TRUE,FALSE
+Office,TwitterSeattle,Twitter Seattle,Feb 2013,Twitter,"Twitter HQ at Seattle, WA",TRUE,FALSE
+Office,TwitterBoston,Twitter Boston,Feb 2013,Twitter,"Twitter HQ at Boston, MA",TRUE,FALSE
+Office,TwitterBoulder,Twitter Boulder,Dec 2013,Twitter,"Twitter HQ at Boulder, CO",TRUE,FALSE
+Office,TwitterParis,Twitter Paris,Apr 2016,TwitterFrance,Twitter HQ at Paris,TRUE,FALSE
+Office,TwitterDetroit,Twitter Detroit,Apr 2016,Twitter,"Twitter HQ at Detroit, MI",TRUE,FALSE
+Office,TwitterMiami,Twitter Miami,Oct 2018,Twitter,"Twitter HQ at Miami, FL",TRUE,FALSE
+Regional,TwitterAU,Twitter Australia,Sep 2012,TwitterAU,Australia,TRUE,FALSE
+Regional,TwitterMktgAU,Twitter Marketing AU,Feb 2015,TwitterAU,Australia (marketing),TRUE,FALSE
+Regional,MomentsAU,Twitter Moments Australia,Dec 2015,TwitterAU,Australia (moments),TRUE,FALSE
+Regional,TwitterSportsAU,Twitter Sports,Dec 2013,TwitterAU,Australia (sports),TRUE,FALSE
+Regional,TwitterBrasil,Twitter Brasil,Mar 2011,TwitterBrasil,Brazil,TRUE,FALSE
+Regional,JoinTheFlockBR,Twitter Careers Brasil,Jun 2014,TwitterMktgBR,Brazil (job openings),TRUE,FALSE
+Regional,TwitterMktgBR,Twitter Marketing BR,Dec 2013,TwitterMktgBR,Brazil (marketing),TRUE,FALSE
+Regional,MomentsBrasil,Twitter Moments Brasil,Nov 2015,TwitterMktgBR,Brazil (moments),TRUE,FALSE
+Regional,TwitterSeguroBR,Twitter Seguro 🇧🇷,Oct 2021,Twitter,Brazil (safety),TRUE,FALSE
+Regional,TwitterCanada,Twitter Canada,Apr 2013,TwitterCanada,Canada,TRUE,FALSE
+Regional,CanadaMoments,Twitter Moments Canada,Oct 2015,CanadaMoments,Canada (moments),TRUE,FALSE
+Regional,JoinTheFlockEU,Join The Flock EMEA,Jul 2012,Twitter,Europe (job openings),TRUE,FALSE
+Regional,TwitterFrance,Twitter France,Nov 2009,TwitterFrance,France,TRUE,FALSE
+Regional,TwitterMktgFR,Twitter Marketing FR,Aug 2013,TwitterFrance,France (marketing),TRUE,FALSE
+Regional,TwitterMediaFR,Twitter Media France,Feb 2015,TwitterMediaFR,France (media),FALSE,FALSE
+Regional,TwitterDE,Twitter Deutschland,Dec 2009,TwitterDE,Germany,TRUE,FALSE
+Regional,TwitterMktgDACH,Twitter Marketing DACH,Jun 2014,TwitterMktgDACH,Germany + Austria + Switzerland (marketing),TRUE,FALSE
+Regional,TwitterGhana,Twitter Ghana,Dec 2021,TwitterGhana,Ghana,TRUE,FALSE
+Regional,TwitterIndia,Twitter India,Jan 2010,TwitterIndia,India,TRUE,FALSE
+Regional,TwitterMktgIN,Twitter Marketing IN,Jul 2015,TwitterMktgIN,India (marketing),TRUE,FALSE
+Regional,MomentsIndia,Twitter Moments India,Jun 2016,TwitterIndia,India (moments),TRUE,FALSE
+Regional,TwitterVideoIN,Twitter Video India,Apr 2016,TwitterIndia,India (video),TRUE,FALSE
+Regional,TwitterID,Twitter Indonesia,Jun 2014,TwitterID,Indonesia,TRUE,FALSE
+Regional,TwitterMktgID,Twitter Marketing ID,Jun 2015,TwitterID,Indonesia (marketing),TRUE,FALSE
+Regional,TwitterDublin,Twitter Dublin,Jun 2013,TwitterDublin,Ireland,TRUE,FALSE
+Regional,TwitterMktgIL,Twitter Marketing Israel,Sep 2021,TwitterMktgIL,Israel (marketing),TRUE,FALSE
+Regional,TwitterJP,Twitter Japan,Jun 2007,TwitterJP,Japan,TRUE,FALSE
+Regional,TwitterBizJP,Twitterビジネス,Jun 2014,TwitterJP,Japan (business),TRUE,FALSE
+Regional,TwitterDevJP,Twitter Dev Japan,Sep 2009,TwitterJP,Japan (dev),TRUE,FALSE
+Regional,TwitterLifeline,Twitterライフライン,Dec 2013,Twitter,Japan (disasters),TRUE,FALSE
+Regional,TwitterFashnJP,Twitter ファッション,Oct 2014,TwitterJP,Japan (fashion),TRUE,FALSE
+Regional,JoinTheFlockJP,Twitter公式採用アカウント,Aug 2013,TwitterJP,Japan (job openings),TRUE,FALSE
+Regional,TwitterMktgJP,Twitter マーケティング,Jul 2012,TwitterJP,Japan (marketing),TRUE,FALSE
+Regional,TwitterMediaJP,Twitter メディア,May 2013,TwitterJP,Japan (media),TRUE,FALSE
+Regional,MomentsJapan,Twitter モーメント,Oct 2015,TwitterJP,Japan (moments),TRUE,FALSE
+Regional,TwitterMusicJP,Twitter ミュージック,Oct 2012,TwitterJP,Japan (music),TRUE,FALSE
+Regional,TwitterNewsJP,Twitter ニュース,Feb 2013,TwitterJP,Japan (news),TRUE,FALSE
+Regional,TwitterGovJP,Twitter 政治,Feb 2013,TwitterJP,Japan (politics),TRUE,FALSE
+Regional,TwitterSportsJP,Twitter スポーツ,Feb 2013,TwitterJP,Japan (sports),TRUE,FALSE
+Regional,TwitterKorea,Twitter 트위터코리아,Nov 2010,TwitterKorea,Korea,TRUE,FALSE
+Regional,TwitterMktgKR,Twitter Marketing Korea 트위터 마케팅,Jul 2013,TwitterKorea,Korea (marketing),TRUE,FALSE
+Regional,TwitterLatAm,Twitter Latin America,Oct 2009,TwitterLatAm,Latin America,TRUE,FALSE
+Regional,TwitterMktLatam,Twitter Mktg Latam,Jun 2014,TwitterLatAm,Latin America (marketing),TRUE,FALSE
+Regional,TwitterMexico,Twitter México,Jun 2018,TwitterMexico,Mexico,TRUE,FALSE
+Regional,TwitterMENA,Twitter MENA,Dec 2013,TwitterMENA,Middle East and North Africa,TRUE,FALSE
+Regional,momentsmena,Moments MENA,Aug 2016,momentsmena,Middle East and North Africa (moments),TRUE,FALSE
+Regional,TwitterPH,Twitter Philippines,Oct 2015,TwitterPH,Philippines,TRUE,FALSE
+Regional,TwitterSG,Twitter Singapore,Dec 2013,TwitterSG,Singapore,TRUE,FALSE
+Regional,TwitterMktgSG,Twitter Marketing SG,Jul 2015,TwitterSG,Singapore (marketing),TRUE,FALSE
+Regional,TwitterEspana,Twitter España,Apr 2013,Twitter,Spain (previously @TwitterSpain),TRUE,FALSE
+Regional,TweetEventos,TweetEventos,Mar 2016,TweetEventos,Spain (events),FALSE,FALSE
+Regional,TwitterMktgES,Twitter Marketing ES,Aug 2013,Twitter,Spain (marketing),TRUE,FALSE
+Regional,MomentsES,Twitter Moments en Español,Oct 2015,Twitter,Spain (moments),TRUE,FALSE
+Regional,TwitterSeguro,Twitter Seguro,Nov 2009,Twitter,Spain (safety),TRUE,FALSE
+Regional,TwitterThailand,Twitter Thailand,Mar 2020,TwitterThailand,Thailand,TRUE,FALSE
+Regional,TwitterTurkiye,Twitter Türkiye,Aug 2011,TwitterTurkiye,Turkey,TRUE,FALSE
+Regional,TwitterUK,Twitter UK,Apr 2011,TwitterUK,United Kingdom,TRUE,FALSE
+Regional,TwitterMktgUK,Twitter Marketing UK,Jan 2013,TwitterUK,United Kingdom (marketing),TRUE,FALSE
+Regional,insiders_uk,Twitter Insiders UK,Nov 2013,TwitterUK,United Kingdom (research community),TRUE,FALSE
+Regional,UKMoments,Twitter Moments UK & Ireland,Jan 2014,TwitterUK,United Kingdom + Ireland (moments),TRUE,FALSE
+Company,adgrok,adgrok,Jun 2010,adgrok,AdGrok (acquired in 2011),FALSE,FALSE
+Company,BackType,BackType,Jun 2008,BackType,BackType (acquired in 2011),FALSE,FALSE
+Company,bagchk,Bagcheck,Nov 2010,bagchk,Bagcheck (acquired in 2011),FALSE,FALSE
+Company,summify,Summify,Aug 2009,summify,Summify (acquired in 2012),FALSE,FALSE
+Company,dasient,Dasient Inc,Apr 2009,dasient,Dasient (acquired in 2012),FALSE,FALSE
+Company,posterous,posterous,Jul 2008,posterous,Posterous (acquired in 2012),FALSE,FALSE
+Company,clutchio,Clutch IO,Oct 2011,clutchio,Clutch.IO (acquired in 2012),FALSE,FALSE
+Company,vineapp,Vine App,Oct 2014,vineapp,Vine (acquired in 2012),FALSE,FALSE
+Company,VineCreators,Vine Creators,May 2012,VineCreators,Vine (acquired in 2012),FALSE,TRUE
+Company,wearehunted,We Are Hunted,Apr 2009,wearehunted,We Are Hunted (acquired in 2012),FALSE,FALSE
+Company,ubalo,"Ubalo, Inc.",Oct 2011,ubalo,Ubalo (acquired in 2013),FALSE,FALSE
+Company,luckysort,LuckySort,Mar 2011,luckysort,Lucky Sort (acquired in 2013),FALSE,FALSE
+Company,locomatix,Locomatix Inc,Nov 2009,locomatix,Locomatix (acquired in 2013),FALSE,FALSE
+Company,Marakana,Marakana,Aug 2013,Marakana,Marakana (acquired in 2013),FALSE,FALSE
+Company,Trendrr,Trendrr,Apr 2008,Trendrr,Trendrr (acquired in 2013),FALSE,FALSE
+Company,Mesagraph,Mesagraph,Sep 2010,Mesagraph,Mesagraph (acquired in 2014),FALSE,FALSE
+Company,NamoMedia,Namo Media,Feb 2013,NamoMedia,Namo Media (acquired in 2014),FALSE,FALSE
+Company,SnappyTV,SnappyTV,Sep 2010,SnappyTV,SnappyTV (acquired in 2014),TRUE,TRUE
+Company,cardspring,CardSpring,Nov 2010,cardspring,CardSpring (acquired in 2014),FALSE,FALSE
+Company,zipdial,ZipDial,Feb 2010,zipdial,ZipDial (acquired in 2014),FALSE,FALSE
+Company,PeriscopeCo,Periscope,Apr 2014,PeriscopeCo,Periscope (acquired in 2015),TRUE,FALSE
+Company,PeriscopeHelp,Periscope Help,Mar 2015,PeriscopeHelp,Periscope (acquired in 2015),TRUE,FALSE
+Company,tenXer,tenXer,Aug 2011,tenXer,tenXer (acquired in 2015),FALSE,FALSE
+Company,tellapart,"TellApart, Inc.",May 2009,tellapart,TellApart (acquired in 2015),FALSE,FALSE
+Company,whetlab,Whetlab,Feb 2014,whetlab,Whetlab (acquired in 2015),FALSE,FALSE
+Company,fabula_ai,fabula_ai,Apr 2018,fabula_ai,Fabula AI (acquired in 2019),FALSE,FALSE
+Company,meet_aiden,aiden.ai,Nov 2016,meet_aiden,Aiden.ai (acquired in 2019),FALSE,FALSE
+Company,Chroma_Labs,Chroma Labs,Jul 2018,Chroma_Labs,Chroma Labs (acquired in 2020),FALSE,FALSE
+Company,squad,Squad,Jan 2017,squad,Squad (acquired in 2020),FALSE,FALSE
+Company,Breaker,Breaker,Nov 2016,Breaker,Breaker (acquired in 2021),TRUE,FALSE
+Company,uenodotco,ueno.,May 2011,uenodotco,Ueno (acquired in 2021),FALSE,FALSE
+Company,revue,Revue,Jan 2015,revue,Revue (acquired in 2021),TRUE,FALSE
+Company,spheremessenger,Sphere 💬,Nov 2020,spheremessenger,Sphere (acquired in 2021),FALSE,FALSE
+Company,threader,Threader,Aug 2017,threader,Threader (acquired in 2021),TRUE,FALSE
+Misc,grayhamsays,Allen Grayham,Oct 2018,grayhamsays,Account for illustrative purposes,FALSE,TRUE
