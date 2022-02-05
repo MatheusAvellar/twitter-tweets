@@ -82,7 +82,7 @@ ul {
   margin: 0;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 1em;
+  gap: 2.5em 1em;
 }
 @media screen and (max-width: 780px) {
   ul {
@@ -103,6 +103,9 @@ article {
   box-shadow: var(--shadow-elevation-low);
   border-radius: 8px;
   transition: box-shadow .15s ease;
+
+  display: grid;
+  grid-template-columns: calc(100px + 1em) 1fr;
 }
 article:hover, article:active, article:focus-within {
   box-shadow: var(--shadow-elevation-medium);
@@ -113,7 +116,7 @@ a[href] {
   text-decoration: none;
   padding: .1em .2em;
   border-radius: 2px;
-  margin-left: -.1em;
+  margin-left: -.2em;
 }
 a[href]:hover, a[href]:focus, a[href]:active {
   background-color: #536471;
@@ -138,10 +141,37 @@ hr {
   width: 50%;
 }
 
+.acc-category {
+  margin: 1em 0 1.5em;
+}
+
+.profile-pic {
+  width: 100px;
+  border-radius: 100%;
+  border: 5px solid #fff;
+  margin-top: -2.5em;
+  margin-bottom: -1em;
+}
+.display-name {
+  line-height: 1;
+  margin-bottom: 0.15em;
+}
 .username {
-  margin-bottom: .5em;
   color: #536471;
 }
+.creation {
+  color: #536471;
+  font-size: 85%;
+  margin-bottom: .5em;
+}
+.description {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+.description:not(:empty) {
+  margin-top: 1em;
+}
+
 .label {
   font-weight: 500;
   text-align: right;
@@ -149,8 +179,5 @@ hr {
   font-size: 85%;
 }
 .label+.label {
-  margin-top: 1em;
-}
-.acc-category {
   margin-top: 1em;
 }

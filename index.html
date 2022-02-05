@@ -19,6 +19,7 @@
   <main>
     <p>
       This list contains <span id="acc-count">0</span> known accounts.
+      You can download the list as a CSV <a href="accounts.csv">here</a>.
     </p>
     <section id="acc-list">
       <noscript>
@@ -26,21 +27,27 @@
       </noscript>
       <template id="acc-template">
         <article>
-          <h3 class="display-name">
-            <span>Matheus Avellar</span>
-            <svg viewBox="0 0 24 24"><use href="#ver"></svg>
-          </h3>
-          <p class="username">
-            <a href="https://twitter.com/aveiiar">@aveiiar</a>
-          </p>
-          <p class="description">Conta pessoal.</p>
+          <div class="profile">
+            <img class="profile-pic" src="profiles/Twitter.jpg">
+          </div>
+          <div>
+            <h3 class="display-name">
+              <span>Matheus Avellar</span>
+              <svg viewBox="0 0 24 24"><use href="#ver"></svg>
+            </h3>
+            <p class="username">
+              <a href="https://twitter.com/aveiiar">@aveiiar</a>
+            </p>
+            <time class="creation">Jun 2016</time>
+          </div>
+          <p class="description">Personal account</p>
         </article>
       </template>
     </section>
     <script>
 const wrapper = document.getElementById("acc-list");
 const template = document.getElementById("acc-template");
-Papa.parse("https://lab.avl.la/twitter-tweets/accounts.csv", {
+Papa.parse("https://lab.avl.la/accounts.csv", {
   header: true,
   download: true,
   worker: false,
@@ -70,15 +77,23 @@ function process(data) {
     const li = document.createElement("li");
 
     clone.querySelector(".display-name > span").textContent = d["Display"];
-    clone.querySelector(".username > a").textContent = d["Username"];
-    const href = `https://twitter.com/${d["Username"]}`;
-    clone.querySelector(".username > a").setAttribute("href", href);
-    clone.querySelector(".description").textContent = d["Notes"] || "\u00a0";
+    const username = d["Username"].trim();
+    clone.querySelector(".username > a").textContent = `@${username}`;
+    const clean_username = username.trim();
+    const href = `https://twitter.com/${clean_username}`;
 
-    // TODO: improve 'not verified' thing
-    if(d["Notes"].indexOf("(not verified)") >= 0) {
+    const img = clone.querySelector(".profile-pic");
+    img.onerror = e => { img.src = "profiles/Twitter.jpg"; return false; };
+    img.src = `profiles/${d["Image"]}.jpg`;
+
+    clone.querySelector(".username > a").setAttribute("href", href);
+    clone.querySelector(".creation").textContent = d["Creation"];
+
+    if(d["Verified"] === "FALSE") {
       clone.querySelector("svg").style.display = "none";
     }
+
+    clone.querySelector(".description").textContent = d["Notes"].trim();
 
     li.appendChild(clone);
     ul.appendChild(li);
