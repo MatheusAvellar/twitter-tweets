@@ -28,20 +28,20 @@
       <template id="acc-template">
         <article>
           <div class="profile">
-            <img class="profile-pic" src="profiles/Twitter.jpg">
+            <img class="profile-pic" src="profiles/default.jpg">
           </div>
           <div>
             <h3 class="display-name">
-              <span>Matheus Avellar</span>
+              <span>xxx</span>
               <svg class="verified-icon" viewBox="0 0 24 24"><use href="#verified"></svg>
               <svg class="private-icon" viewBox="0 0 24 24"><use href="#private"></svg>
             </h3>
             <p class="username">
-              <a href="https://twitter.com/aveiiar">@aveiiar</a>
+              <a href="https://twitter.com/aveiiar">@xxx</a>
             </p>
-            <time class="creation">Jun 2016</time>
+            <time class="creation">xxx xxxx</time>
           </div>
-          <p class="description">Personal account</p>
+          <p class="description">xxxx</p>
         </article>
       </template>
     </section>
@@ -76,6 +76,8 @@ function process(data) {
     }
 
     const li = document.createElement("li");
+    if(d["ID"])
+      li.dataset.id = d["ID"];
 
     clone.querySelector(".display-name > span").textContent = d["Display"];
     const username = d["Username"].trim();
