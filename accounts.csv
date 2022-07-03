@@ -39,6 +39,7 @@ Standard,2244994945,TwitterDev,Twitter Dev,Dec 2013,TwitterAPI,Dev team,TRUE,FAL
 Standard,2328002822,TwitterWomen,Twitter Women,Feb 2014,TwitterWomen,,TRUE,FALSE
 Standard,2548979088,TwitterAlas,Twitter Alas,Jun 2014,TwitterAlas,Twitter's Latinos' Business Resource Group,TRUE,FALSE
 Standard,2835589679,TwitterStudio,Twitter Studio,Oct 2014,Twitter,Internal events,TRUE,TRUE
+Standard,3001165942,TwitterWrite,Twitter Write,Jan 2015,TwitterWrite,"Renamed account, previously @Revue",TRUE,FALSE
 Standard,3015271772,TwitterFood,Twitter Food,Feb 2015,Twitter,,TRUE,FALSE
 Standard,3015301350,TwitterStage,Twitter Stage,Feb 2015,Twitter,Theater,TRUE,FALSE
 Standard,3260518932,TwitterMoments,Twitter Moments,Jun 2015,Twitter,,TRUE,FALSE
@@ -176,7 +177,7 @@ Company,1022301729138720769,Chroma_Labs,Chroma Labs,Jul 2018,Chroma_Labs,Chroma 
 Company,826599269666680832,squad,Squad,Jan 2017,squad,Squad (acquired in 2020),FALSE,FALSE
 Company,797664290538852352,Breaker,Breaker,Nov 2016,Breaker,Breaker (acquired in 2021),TRUE,FALSE
 Company,297214832,uenodotco,ueno.,May 2011,uenodotco,Ueno (acquired in 2021),FALSE,FALSE
-Company,3001165942,revue,Revue,Jan 2015,revue,Revue (acquired in 2021),TRUE,FALSE
+Company,1539642572729196544,Revue,Revue,Jun 2022,Revue,Revue (acquired in 2021); original account was changed to @TwitterWrite,FALSE,FALSE
 Company,1328756432989278208,spheremessenger,Sphere 💬,Nov 2020,spheremessenger,Sphere (acquired in 2021),FALSE,FALSE
 Company,900271822465380352,threader,Threader,Aug 2017,threader,Threader (acquired in 2021),TRUE,FALSE
 Test,2860640487,Arkahella,Arkahella,Nov 2014,Arkahella,Test account for @kashnaladak,FALSE,FALSE
