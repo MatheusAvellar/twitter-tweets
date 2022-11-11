@@ -24,7 +24,7 @@ Standard,427475002,TwitterBooks,Twitter Books,Dec 2011,Twitter,,TRUE,FALSE
 Standard,436266454,TwitterMovies,Twitter Movies,Dec 2011,TwitterMovies,,TRUE,FALSE
 Standard,544524144,TwitterResearch,Twitter Research,Apr 2012,Twitter,,TRUE,FALSE
 Standard,586198217,TwitterTV,Twitter TV,May 2012,TwitterTV,,TRUE,FALSE
-Standard,726960710,TwitterMedia,Twitter Media,Jul 2012,Twitter,,TRUE,FALSE
+Standard,726960710,TwitterCreate,Twitter Create,Jul 2012,Twitter,Previously @TwitterMedia,TRUE,FALSE
 Standard,628899279,TwitterSurveys,Twitter Surveys,Jul 2012,Twitter,Brand surveys,TRUE,FALSE
 Standard,905409822,TwitterSRE,Twitter SRE,Oct 2012,Twitter,Site Reliability Engineering,TRUE,FALSE
 Standard,1117573164,TwitterHadoop,Hadoop @Twitter,Jan 2013,TwitterHadoop,Hadoop team,TRUE,FALSE
@@ -70,9 +70,10 @@ Nonstandard,1665823832,University,Twitter University,Aug 2013,Twitter,Technical 
 Nonstandard,2394839066,SupportRequests,Support Requests,Mar 2014,Twitter,,TRUE,FALSE
 Nonstandard,2548985366,Blackbirds,Twitter Blackbirds,Jun 2014,Blackbirds,Black employees,TRUE,FALSE
 Nonstandard,2549011969,NeighborNest,Twitter NeighborNest,Jun 2014,Twitter,Community Center,TRUE,FALSE
-Nonstandard,1319036828964454402,birdwatch,Birdwatch,Oct 2020,birdwatch,,TRUE,FALSE
+Nonstandard,1319036828964454402,CommunityNotes,Community Notes,Oct 2020,CommunityNotes,Previously @birdwatch,TRUE,FALSE
 Nonstandard,1425859260248854535,SuperFollows,Super Follows,Aug 2021,SuperFollows,,TRUE,FALSE
 Nonstandard,1433894099178774532,HiCommunities,Twitter Communities,Sep 2021,HiCommunities,,TRUE,FALSE
+Nonstandard,1587908561023029248,birdwatch,Birdwatch,Nov 2022,birdwatch,Renamed to @CommunityNotes,TRUE,FALSE
 Office,172020392,TwitterSF,Twitter San Francisco,Jul 2010,Twitter,"Twitter HQ at San Francisco, CA",TRUE,FALSE
 Office,212364827,TwitterChicago,Twitter Chicago,Nov 2010,Twitter,"Twitter HQ at Chicago, IL",TRUE,FALSE
 Office,495309159,TwitterNYC,Twitter New York City,Feb 2012,Twitter,"Twitter HQ at New York, NY",TRUE,FALSE
