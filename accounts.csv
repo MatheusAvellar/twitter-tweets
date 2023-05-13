@@ -11,7 +11,7 @@ Standard,130649891,TwitterLive,Twitter Live,Apr 2010,Twitter,,TRUE,FALSE
 Standard,172442947,TwitterU,Early Career at Twitter,Jul 2010,Twitter,Internships and early careers,TRUE,FALSE
 Standard,178111058,TwitterFashion,Twitter Fashion,Aug 2010,Twitter,,TRUE,FALSE
 Standard,222953824,TwitterGov,TwitterGov,Dec 2010,Twitter,Politics,TRUE,FALSE
-Standard,234489024,TwitterComms,Twitter Comms,Jan 2011,Twitter,,TRUE,FALSE
+Standard,234489024,TwitterComms,Twitter Comms,Jan 2011,Twitter,,FALSE,FALSE
 Standard,300392950,TwitterSports,Twitter Sports,May 2011,TwitterSports,,TRUE,FALSE
 Standard,338604482,TwitterOpen,Twitter Open,Jul 2011,TwitterOpen,,TRUE,FALSE
 Standard,357750891,TwitterMktg,Twitter Marketing,Aug 2011,Twitter,,TRUE,FALSE
@@ -22,119 +22,121 @@ Standard,425468509,TwitterIO,Twitter Reliability,Nov 2011,TwitterIO,Reliability 
 Standard,414869890,TwitterFaith,Twitter Faith,Nov 2011,TwitterFaith,,TRUE,FALSE
 Standard,427475002,TwitterBooks,Twitter Books,Dec 2011,Twitter,,TRUE,FALSE
 Standard,436266454,TwitterMovies,Twitter Movies,Dec 2011,TwitterMovies,,TRUE,FALSE
-Standard,544524144,TwitterResearch,Twitter Research,Apr 2012,Twitter,,TRUE,FALSE
+Standard,544524144,TwitterResearch,Twitter Research,Apr 2012,Twitter,,FALSE,FALSE
 Standard,586198217,TwitterTV,Twitter TV,May 2012,TwitterTV,,TRUE,FALSE
-Standard,726960710,TwitterCreate,Twitter Create,Jul 2012,Twitter,Previously @TwitterMedia,TRUE,FALSE
-Standard,628899279,TwitterSurveys,Twitter Surveys,Jul 2012,Twitter,Brand surveys,TRUE,FALSE
+Standard,726960710,TwitterCreate,Twitter Create,Jul 2012,Twitter,Previously @TwitterMedia,FALSE,FALSE
+Standard,628899279,TwitterSurveys,Twitter Surveys,Jul 2012,Twitter,Brand surveys,TRUE,TRUE
 Standard,905409822,TwitterSRE,Twitter SRE,Oct 2012,Twitter,Site Reliability Engineering,TRUE,FALSE
 Standard,1117573164,TwitterHadoop,Hadoop @Twitter,Jan 2013,TwitterHadoop,Hadoop team,TRUE,FALSE
 Standard,1137751093,twittersecurity,Twitter Security,Jan 2013,Twitter,Security team,TRUE,FALSE
 Standard,1287248143,TwitterREW,Twitter REW,Mar 2013,Twitter,Real Estate Works,TRUE,FALSE
-Standard,1347677268,TwitterNotify,Twitter Notify,Apr 2013,Twitter,,TRUE,FALSE
-Standard,1526228120,TwitterData,Twitter Data,Jun 2013,Twitter,,TRUE,FALSE
-Standard,1631299117,TwitterA11y,Twitter Accessibility,Jul 2013,Twitter,,TRUE,FALSE
-Standard,1603818258,TwitterIR,Twitter Investor Relations,Jul 2013,Twitter,,TRUE,FALSE
-Standard,1884191208,TwitterForGood,Twitter For Good,Sep 2013,Twitter,Twitter's social impact,TRUE,FALSE
+Standard,1347677268,TwitterNotify,Twitter Notify,Apr 2013,Twitter,,FALSE,FALSE
+Standard,1526228120,TwitterData,Twitter Data,Jun 2013,Twitter,,FALSE,FALSE
+Standard,1631299117,TwitterA11y,Twitter Accessibility,Jul 2013,Twitter,,FALSE,FALSE
+Standard,1603818258,TwitterIR,Twitter Investor Relations,Jul 2013,Twitter,,FALSE,FALSE
+Standard,1884191208,TwitterForGood,Twitter For Good,Sep 2013,Twitter,Twitter's social impact,FALSE,FALSE
 Standard,2244994945,TwitterDev,Twitter Dev,Dec 2013,TwitterAPI,Dev team,TRUE,FALSE
-Standard,2328002822,TwitterWomen,Twitter Women,Feb 2014,TwitterWomen,,TRUE,FALSE
+Standard,2328002822,TwitterWomen,Twitter Women,Feb 2014,TwitterWomen,,FALSE,FALSE
 Standard,2548979088,TwitterAlas,Twitter Alas,Jun 2014,TwitterAlas,Twitter's Latinos' Business Resource Group,TRUE,FALSE
-Standard,2835589679,TwitterStudio,Twitter Studio,Oct 2014,Twitter,Internal events,TRUE,TRUE
+Standard,2835589679,TwitterStudio,Twitter Studio,Oct 2014,Twitter,Internal events,FALSE,TRUE
 Standard,3001165942,TwitterWrite,Twitter Write,Jan 2015,TwitterWrite,"Renamed account, previously @Revue",TRUE,FALSE
-Standard,3015271772,TwitterFood,Twitter Food,Feb 2015,Twitter,,TRUE,FALSE
-Standard,3015301350,TwitterStage,Twitter Stage,Feb 2015,Twitter,Theater,TRUE,FALSE
+Standard,3015271772,TwitterFood,Twitter Food,Feb 2015,Twitter,,FALSE,FALSE
+Standard,3015301350,TwitterStage,Twitter Stage,Feb 2015,Twitter,Theater,FALSE,FALSE
 Standard,3260518932,TwitterMoments,Twitter Moments,Jun 2015,Twitter,,TRUE,FALSE
 Standard,3282859598,TwitterCreators,Twitter Creators,Jul 2015,TwitterCreators,,TRUE,FALSE
 Standard,3873936134,TwitterGaming,Twitter Gaming,Oct 2015,TwitterGaming,,TRUE,FALSE
 Standard,738117623737552896,TwitterParents,Twitter Parents,Jun 2016,TwitterParents,,TRUE,FALSE
-Standard,738118115595165697,TwitterStripes,Twitter Stripes,Jun 2016,TwitterStripes,Military,TRUE,FALSE
+Standard,738118115595165697,TwitterStripes,Twitter Stripes,Jun 2016,TwitterStripes,Military,FALSE,FALSE
 Standard,738118487122419712,TwitterAsians,Twitter Asians,Jun 2016,TwitterAsians,Asians,TRUE,FALSE
 Standard,773578328498372608,TwitterTogether,Twitter Together,Sep 2016,TwitterTogether,Employee community,TRUE,FALSE
 Standard,1004057478575861760,TwitterOneTeam,Twitter #OneTeam,Jun 2018,TwitterOneTeam,Internal event,FALSE,TRUE
 Standard,1065249714214457345,TwitterSpaces,Spaces,Nov 2018,TwitterSpaces,Live audio meetings,TRUE,FALSE
 Standard,1168976680867762177,TwitterAble,Twitter Able,Sep 2019,TwitterAble,Disability Twitter,TRUE,FALSE
-Standard,1194267639100723200,TwitterRetweets,Twitter Retweets,Nov 2019,Twitter,,TRUE,FALSE
+Standard,1194267639100723200,TwitterRetweets,Twitter Retweets,Nov 2019,Twitter,,FALSE,FALSE
 Standard,1321095210517090304,TwitterArabs,Twitter Arabs,Oct 2020,TwitterArabs,,TRUE,FALSE
 Standard,1399766153053061121,TwitterBlue,Twitter Blue,Jun 2021,TwitterBlue,Premium Twitter,TRUE,FALSE
-Standard,1440438581814722560,TwitterIndigena,Twitter Indigenous,Sep 2021,TwitterIndigena,Indigenous voices,TRUE,FALSE
-Standard,1489400041018036227,twittermartech,Twitter Marketing Partners,Feb 2022,Twitter,Twitter Marketing Technology,TRUE,FALSE
-Standard,1517225601463205888,TwitterVoices,TwitterVoices,Apr 2022,TwitterVoices,"Recognize, identify, celebrate, support, and amplify voices from historically marginalized communities on Twitter",TRUE,FALSE
-Nonstandard,63796828,verified,Twitter Verified,Aug 2009,Twitter,,TRUE,FALSE
+Standard,1440438581814722560,TwitterIndigena,Twitter Indigenous,Sep 2021,TwitterIndigena,Indigenous voices,FALSE,FALSE
+Standard,1489400041018036227,twittermartech,Twitter Marketing Partners,Feb 2022,Twitter,Twitter Marketing Technology,FALSE,FALSE
+Standard,1517225601463205888,TwitterVoices,TwitterVoices,Apr 2022,TwitterVoices,"Recognize, identify, celebrate, support, and amplify voices from historically marginalized communities on Twitter",FALSE,FALSE
+Nonstandard,63796828,verified,Twitter Verified,Aug 2009,Twitter,"Recognize, identify, celebrate, support, and amplify voices from historically marginalized communities on Twitter",TRUE,FALSE
 Nonstandard,158079127,Nonprofits,Twitter Nonprofits,Jun 2010,Twitter,Best practices for nonprofits,TRUE,FALSE
-Nonstandard,218984871,Policy,Twitter Public Policy,Nov 2010,Twitter,Public Policy team,TRUE,FALSE
-Nonstandard,284201599,terns,Twitter Terns,Apr 2011,Twitter,Twitter interns,TRUE,FALSE
+Nonstandard,218984871,GlobalAffairs,Twitter Global Government Affairs,Nov 2010,Twitter,"Previously @Policy, the Twitter Public Policy team",TRUE,FALSE
+Nonstandard,284201599,terns,Twitter Terns,Apr 2011,Twitter,Twitter interns,FALSE,FALSE
 Nonstandard,437698597,womeng,Twitter Women Eng,Dec 2011,Twitter,,TRUE,FALSE
-Nonstandard,791978718,OfficialPartner,Twitter Official Partner,Aug 2012,Twitter,Twitter Official Partner Program,TRUE,FALSE
+Nonstandard,791978718,OfficialPartner,Twitter Official Partner,Aug 2012,Twitter,Twitter Official Partner Program,FALSE,FALSE
 Nonstandard,1225933934,AdsAPI,Twitter Ads API,Feb 2013,Twitter,,TRUE,FALSE
 Nonstandard,1524832640,ArtHouse,ArtHouse,Jun 2013,Twitter,Twitter marketing for brands,TRUE,FALSE
-Nonstandard,1665823832,University,Twitter University,Aug 2013,Twitter,Technical training,TRUE,FALSE
+Nonstandard,1665823832,University,Twitter University,Aug 2013,Twitter,Technical training,FALSE,FALSE
 Nonstandard,2394839066,SupportRequests,Support Requests,Mar 2014,Twitter,,TRUE,FALSE
-Nonstandard,2548985366,Blackbirds,Twitter Blackbirds,Jun 2014,Blackbirds,Black employees,TRUE,FALSE
-Nonstandard,2549011969,NeighborNest,Twitter NeighborNest,Jun 2014,Twitter,Community Center,TRUE,FALSE
+Nonstandard,2548985366,Blackbirds,Twitter Blackbirds,Jun 2014,Blackbirds,Black employees,FALSE,FALSE
+Nonstandard,2549011969,NeighborNest,Twitter NeighborNest,Jun 2014,Twitter,Community Center,FALSE,FALSE
 Nonstandard,1319036828964454402,CommunityNotes,Community Notes,Oct 2020,CommunityNotes,Previously @birdwatch,TRUE,FALSE
 Nonstandard,1425859260248854535,Subscriptions,Subscriptions,Aug 2021,SuperFollows,Previously @SuperFollows,TRUE,FALSE
-Nonstandard,1433894099178774532,HiCommunities,Twitter Communities,Sep 2021,HiCommunities,,TRUE,FALSE
+Nonstandard,1433894099178774532,HiCommunities,Twitter Communities,Sep 2021,HiCommunities,,FALSE,FALSE
 Nonstandard,1587908561023029248,birdwatch,Birdwatch,Nov 2022,birdwatch,Renamed to @CommunityNotes,TRUE,FALSE
 Nonstandard,1601029807604527106,HelpfulNotes,Helpful Community Notes,Dec 2022,HelpfulNotes,Retweets Tweets with Community Notes rated helpful,TRUE,FALSE
 Nonstandard,1650626667302248453,NotasUteis,Notas Úteis da Comunidade,Apr 2023,NotasUteis,"Similar to @HelpfulNotes, but in Portuguese",TRUE,FALSE
-Office,172020392,TwitterSF,Twitter San Francisco,Jul 2010,Twitter,"Twitter HQ at San Francisco, CA",TRUE,FALSE
-Office,212364827,TwitterChicago,Twitter Chicago,Nov 2010,Twitter,"Twitter HQ at Chicago, IL",TRUE,FALSE
-Office,495309159,TwitterNYC,Twitter New York City,Feb 2012,Twitter,"Twitter HQ at New York, NY",TRUE,FALSE
-Office,484495045,TwitterLA,Twitter Los Angeles,Feb 2012,Twitter,"Twitter HQ at Los Angeles, CA",TRUE,FALSE
-Office,593893034,TwitterDC,Twitter DC,May 2012,Twitter,"Twitter HQ at Washington, DC",TRUE,FALSE
+Office,172020392,TwitterSF,Twitter San Francisco,Jul 2010,Twitter,"Twitter HQ at San Francisco, CA",FALSE,FALSE
+Office,212364827,TwitterChicago,Twitter Chicago,Nov 2010,Twitter,"Twitter HQ at Chicago, IL",FALSE,FALSE
+Office,495309159,TwitterNYC,Twitter New York City,Feb 2012,Twitter,"Twitter HQ at New York, NY",FALSE,FALSE
+Office,484495045,TwitterLA,Twitter Los Angeles,Feb 2012,Twitter,"Twitter HQ at Los Angeles, CA",FALSE,FALSE
+Office,593893034,TwitterDC,Twitter DC,May 2012,Twitter,"Twitter HQ at Washington, DC",FALSE,FALSE
 Office,707249550,TwitterATL,Twitter Atlanta,Jul 2012,Twitter,"Twitter HQ at Atlanta, GA",TRUE,FALSE
-Office,1228433617,TwitterSeattle,Twitter Seattle,Feb 2013,Twitter,"Twitter HQ at Seattle, WA",TRUE,FALSE
+Office,1228433617,TwitterSeattle,Twitter Seattle,Feb 2013,Twitter,"Twitter HQ at Seattle, WA",FALSE,FALSE
 Office,1173514177,TwitterBoston,Twitter Boston,Feb 2013,Twitter,"Twitter HQ at Boston, MA",TRUE,FALSE
 Office,2249227634,TwitterBoulder,Twitter Boulder,Dec 2013,Twitter,"Twitter HQ at Boulder, CO",TRUE,FALSE
 Office,717462990983856129,TwitterParis,Twitter Paris,Apr 2016,TwitterFrance,Twitter HQ at Paris,TRUE,FALSE
-Office,717463776170119169,TwitterDetroit,Twitter Detroit,Apr 2016,Twitter,"Twitter HQ at Detroit, MI",TRUE,FALSE
-Office,1049385226424786944,TwitterMiami,Twitter Miami,Oct 2018,Twitter,"Twitter HQ at Miami, FL",TRUE,FALSE
-Regional,818212956,TwitterAU,Twitter Australia,Sep 2012,TwitterAU,Australia,TRUE,FALSE
-Regional,3015734250,TwitterMktgAU,Twitter Marketing AU,Feb 2015,TwitterAU,Australia (marketing),TRUE,FALSE
-Regional,4588114813,MomentsAU,Twitter Moments Australia,Dec 2015,TwitterAU,Australia (moments),TRUE,FALSE
+Office,717463776170119169,TwitterDetroit,Twitter Detroit,Apr 2016,Twitter,"Twitter HQ at Detroit, MI",FALSE,FALSE
+Office,1049385226424786944,TwitterMiami,Twitter Miami,Oct 2018,Twitter,"Twitter HQ at Miami, FL",FALSE,FALSE
+Regional,818212956,TwitterAU,Twitter Australia,Sep 2012,TwitterAU,Australia,FALSE,FALSE
+Regional,3015734250,TwitterMktgAU,Twitter Marketing AU,Feb 2015,TwitterAU,Australia (marketing),FALSE,FALSE
+Regional,4588114813,MomentsAU,Twitter Moments Australia,Dec 2015,TwitterAU,Australia (moments),FALSE,FALSE
 Regional,2249227194,TwitterSportsAU,Twitter Sports,Dec 2013,TwitterAU,Australia (sports),TRUE,FALSE
 Regional,263884490,TwitterBrasil,Twitter Brasil,Mar 2011,TwitterBrasil,Brazil,TRUE,FALSE
-Regional,2548977510,JoinTheFlockBR,Twitter Careers Brasil,Jun 2014,TwitterMktgBR,Brazil (job openings),TRUE,FALSE
+Regional,2548977510,JoinTheFlockBR,Twitter Careers Brasil,Jun 2014,TwitterMktgBR,Brazil (job openings),FALSE,FALSE
 Regional,2244997579,TwitterMktgBR,Twitter Marketing BR,Dec 2013,TwitterMktgBR,Brazil (marketing),TRUE,FALSE
 Regional,4172587277,MomentsBrasil,Twitter Moments Brasil,Nov 2015,TwitterMktgBR,Brazil (moments),TRUE,FALSE
-Regional,1454207077740474370,TwitterSeguroBR,Twitter Seguro 🇧🇷,Oct 2021,Twitter,Brazil (safety),TRUE,FALSE
+Regional,1454207077740474370,TwitterSeguroBR,Twitter Seguro 🇧🇷,Oct 2021,Twitter,Brazil (safety),FALSE,FALSE
 Regional,1347713256,TwitterCanada,Twitter Canada,Apr 2013,TwitterCanada,Canada,TRUE,FALSE
-Regional,3873984133,CanadaMoments,Twitter Moments Canada,Oct 2015,CanadaMoments,Canada (moments),TRUE,FALSE
+Regional,3873984133,CanadaMoments,Twitter Moments Canada,Oct 2015,TwitterCanada,Canada (moments),FALSE,FALSE
+Regional,1544516345492119552,TwitterMktgCA,Twitter Marketing CA,Jul 2022,TwitterCanada,Canada (marketing),FALSE,FALSE
 Regional,627222883,JoinTheFlockEU,Join The Flock EMEA,Jul 2012,Twitter,Europe (job openings),TRUE,FALSE
 Regional,90556897,TwitterFrance,Twitter France,Nov 2009,TwitterFrance,France,TRUE,FALSE
 Regional,1639309946,TwitterMktgFR,Twitter Marketing FR,Aug 2013,TwitterFrance,France (marketing),TRUE,FALSE
 Regional,3015789727,TwitterMediaFR,Twitter Media France,Feb 2015,TwitterMediaFR,France (media),FALSE,FALSE
 Regional,95255169,TwitterDE,Twitter Deutschland,Dec 2009,TwitterDE,Germany,TRUE,FALSE
 Regional,2551000952,TwitterMktgDACH,Twitter Marketing DACH,Jun 2014,TwitterMktgDACH,Germany + Austria + Switzerland (marketing),TRUE,FALSE
-Regional,1471591070991470593,TwitterGhana,Twitter Ghana,Dec 2021,TwitterGhana,Ghana,TRUE,FALSE
+Regional,1471591070991470593,TwitterGhana,Twitter Ghana,Dec 2021,TwitterGhana,Ghana,FALSE,FALSE
 Regional,103770785,TwitterIndia,Twitter India,Jan 2010,TwitterIndia,India,TRUE,FALSE
 Regional,1544443531,twi,@twi,Jun 2013,twi,India (former account),FALSE,FALSE
-Regional,3282860300,TwitterMktgIN,Twitter Marketing IN,Jul 2015,TwitterMktgIN,India (marketing),TRUE,FALSE
-Regional,738115375477362688,MomentsIndia,Twitter Moments India,Jun 2016,TwitterIndia,India (moments),TRUE,FALSE
-Regional,717465714357972992,TwitterVideoIN,Twitter Video India,Apr 2016,TwitterIndia,India (video),TRUE,FALSE
+Regional,3282860300,TwitterMktgIN,Twitter Marketing IN,Jul 2015,TwitterMktgIN,India (marketing),FALSE,FALSE
+Regional,738115375477362688,MomentsIndia,Twitter Moments India,Jun 2016,TwitterIndia,India (moments),FALSE,FALSE
+Regional,717465714357972992,TwitterVideoIN,Twitter Video India,Apr 2016,TwitterIndia,India (video),FALSE,FALSE
 Regional,2550997820,TwitterID,Twitter Indonesia,Jun 2014,TwitterID,Indonesia,TRUE,FALSE
 Regional,3260517252,TwitterMktgID,Twitter Marketing ID,Jun 2015,TwitterID,Indonesia (marketing),TRUE,FALSE
-Regional,1533573656,TwitterDublin,Twitter Dublin,Jun 2013,TwitterDublin,Ireland,TRUE,FALSE
+Regional,1533573656,TwitterDublin,Twitter Dublin,Jun 2013,TwitterDublin,Ireland,FALSE,FALSE
 Regional,1440375285573054478,TwitterMktgIL,Twitter Marketing Israel,Sep 2021,TwitterMktgIL,Israel (marketing),TRUE,FALSE
 Regional,7080152,TwitterJP,Twitter Japan,Jun 2007,TwitterJP,Japan,TRUE,FALSE
 Regional,2551015628,TwitterBizJP,Twitterビジネス,Jun 2014,TwitterJP,Japan (business),TRUE,FALSE
 Regional,70915829,TwitterDevJP,Twitter Dev Japan,Sep 2009,TwitterJP,Japan (dev),TRUE,FALSE
-Regional,2244981348,TwitterLifeline,Twitterライフライン,Dec 2013,Twitter,Japan (disasters),TRUE,FALSE
-Regional,2861317614,TwitterFashnJP,Twitter ファッション,Oct 2014,TwitterJP,Japan (fashion),TRUE,FALSE
-Regional,1705676064,JoinTheFlockJP,Twitter公式採用アカウント,Aug 2013,TwitterJP,Japan (job openings),TRUE,FALSE
+Regional,2244981348,TwitterLifeline,Twitterライフライン,Dec 2013,Twitter,Japan (disasters),FALSE,FALSE
+Regional,2861317614,TwitterFashnJP,Twitter ファッション,Oct 2014,TwitterJP,Japan (fashion),FALSE,FALSE
+Regional,1705676064,JoinTheFlockJP,Twitter公式採用アカウント,Aug 2013,TwitterJP,Japan (job openings),FALSE,FALSE
 Regional,632708673,TwitterMktgJP,Twitter マーケティング,Jul 2012,TwitterJP,Japan (marketing),TRUE,FALSE
 Regional,1462327554,TwitterMediaJP,Twitter メディア,May 2013,TwitterJP,Japan (media),TRUE,FALSE
 Regional,3896350692,MomentsJapan,Twitter モーメント,Oct 2015,TwitterJP,Japan (moments),TRUE,FALSE
-Regional,862314223,TwitterMusicJP,Twitter ミュージック,Oct 2012,TwitterJP,Japan (music),TRUE,FALSE
-Regional,1159422488,TwitterNewsJP,Twitter ニュース,Feb 2013,TwitterJP,Japan (news),TRUE,FALSE
-Regional,1159458169,TwitterGovJP,Twitter 政治,Feb 2013,TwitterJP,Japan (politics),TRUE,FALSE
+Regional,862314223,TwitterMusicJP,Twitter ミュージック,Oct 2012,TwitterJP,Japan (music),FALSE,FALSE
+Regional,1159422488,TwitterNewsJP,Twitter ニュース,Feb 2013,TwitterJP,Japan (news),FALSE,FALSE
+Regional,1159458169,TwitterGovJP,Twitter 政治,Feb 2013,TwitterJP,Japan (politics),FALSE,FALSE
 Regional,1159274324,TwitterSportsJP,Twitter スポーツ,Feb 2013,TwitterJP,Japan (sports),TRUE,FALSE
 Regional,216531294,TwitterKorea,Twitter 트위터코리아,Nov 2010,TwitterKorea,Korea,TRUE,FALSE
 Regional,1636762128,TwitterMktgKR,Twitter Marketing Korea 트위터 마케팅,Jul 2013,TwitterKorea,Korea (marketing),TRUE,FALSE
 Regional,85426644,TwitterLatAm,Twitter Latin America,Oct 2009,TwitterLatAm,Latin America,TRUE,FALSE
-Regional,2551000568,TwitterMktLatam,Twitter Mktg Latam,Jun 2014,TwitterLatAm,Latin America (marketing),TRUE,FALSE
+Regional,2551000568,TwitterMktLatam,Twitter Mktg Latam,Jun 2014,TwitterLatAm,Latin America (marketing),FALSE,FALSE
 Regional,1004367799588880384,TwitterMexico,Twitter México,Jun 2018,TwitterMexico,Mexico,TRUE,FALSE
 Regional,2228891959,TwitterMENA,Twitter MENA,Dec 2013,TwitterMENA,Middle East and North Africa,TRUE,FALSE
 Regional,766296039036948480,momentsmena,Moments MENA,Aug 2016,momentsmena,Middle East and North Africa (moments),TRUE,FALSE
+Regional,3282802674,TwitterMktgMENA,Twitter Marketing MENA,Jul 2015,TwitterMENA,Middle East and North Africa (marketing),FALSE,FALSE
 Regional,3873867072,TwitterPH,Twitter Philippines,Oct 2015,TwitterPH,Philippines,TRUE,FALSE
 Regional,2244983430,TwitterSG,Twitter Singapore,Dec 2013,TwitterSG,Singapore,TRUE,FALSE
 Regional,3282898525,TwitterMktgSG,Twitter Marketing SG,Jul 2015,TwitterSG,Singapore (marketing),TRUE,FALSE
@@ -147,8 +149,8 @@ Regional,1244731491088809984,TwitterThailand,Twitter Thailand,Mar 2020,TwitterTh
 Regional,348674206,TwitterTurkiye,Twitter Türkiye,Aug 2011,TwitterTurkiye,Turkey,TRUE,FALSE
 Regional,277761722,TwitterUK,Twitter UK,Apr 2011,TwitterUK,United Kingdom,TRUE,FALSE
 Regional,1077914569,TwitterMktgUK,Twitter Marketing UK,Jan 2013,TwitterUK,United Kingdom (marketing),TRUE,FALSE
-Regional,2178322212,insiders_uk,Twitter Insiders UK,Nov 2013,TwitterUK,United Kingdom (research community),TRUE,FALSE
-Regional,2296297326,UKMoments,Twitter Moments UK & Ireland,Jan 2014,TwitterUK,United Kingdom + Ireland (moments),TRUE,FALSE
+Regional,2178322212,insiders_uk,Twitter Insiders UK,Nov 2013,TwitterUK,United Kingdom (research community),FALSE,FALSE
+Regional,2296297326,UKMoments,Twitter Moments UK & Ireland,Jan 2014,TwitterUK,United Kingdom + Ireland (moments),FALSE,FALSE
 Company,14803701,TweetDeck,TweetDeck,May 2008,Twitter,TweetDeck (acquired in 2011),TRUE,FALSE
 Company,151358014,adgrok,adgrok,Jun 2010,adgrok,AdGrok (acquired in 2011),FALSE,FALSE
 Company,15087414,BackType,BackType,Jun 2008,BackType,BackType (acquired in 2011),FALSE,FALSE
@@ -186,10 +188,10 @@ Company,1328756432989278208,spheremessenger,Sphere 💬,Nov 2020,spheremessenger
 Company,900271822465380352,threader,Threader,Aug 2017,threader,Threader (acquired in 2021),TRUE,FALSE
 Test,2860640487,Arkahella,Arkahella,Nov 2014,Arkahella,Test account for @kashnaladak,FALSE,FALSE
 Test,768205916617388032,doyouevenQAbro,Tester McTesty,Aug 2016,doyouevenQAbro,Test account,FALSE,TRUE
-Test,824829440685404160,Riverganges01,Testvit01,Jan 2017,Riverganges01,Test account,TRUE,TRUE
-Test,824830415470985216,riverganges02,lakshmi a,Jan 2017,default,Test account,TRUE,TRUE
-Test,824828886869561344,riverganges03,Testvit03,Jan 2017,riverganges03,Test account,TRUE,TRUE
-Test,824829943423066112,riverganges04,Testvit04,Jan 2017,riverganges04,Test account,TRUE,TRUE
+Test,824829440685404160,Riverganges01,Testvit01,Jan 2017,Riverganges01,Test account,FALSE,TRUE
+Test,824830415470985216,riverganges02,lakshmi a,Jan 2017,default,Test account,FALSE,TRUE
+Test,824828886869561344,riverganges03,Testvit03,Jan 2017,riverganges03,Test account,FALSE,TRUE
+Test,824829943423066112,riverganges04,Testvit04,Jan 2017,riverganges04,Test account,FALSE,TRUE
 Test,824828757831712769,riverganges05,Testvit05,Jan 2017,riverganges05,Test account,TRUE,TRUE
 Test,816324942417555457,amistida,Amistida,Jan 2017,amistida,Test account,TRUE,FALSE
 Test,1171907157446410240,TestAnton1,Test Anton,Sep 2019,default,Test account for @murauyou,FALSE,FALSE
